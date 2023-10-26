@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-<h1 align="center">Proyect change shift</h1>
+<h1 align="center">shift change project</h1>
 ## About this proyect
 This is a system developed entirely in Laravel and Sanctum. It is a set of APIs that allow the registration and administration of shift change information in a specific activity, it contains a simple administration panel which allows you to manage parameters, create users, manage roles and permissions for different access levels through middleware. To access this api you can use the project found within my repository called front_end_supervisores.
 
